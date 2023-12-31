@@ -34,7 +34,7 @@ while user_input.lower() != 'done':
     print(user_input) # prints the values back on the screen 
 
 
-# while loop for repatitive task, & lower to convert the input to lowercase, which allows for a case-insensitive comparison.
+# while loop for repetitive task, & lower to convert the input to lowercase, which allows for a case-insensitive comparison.
 # Each time users enter a new value they're changing the condition, which means that the while loop will exit after they've entered done.
     
 print()
