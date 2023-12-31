@@ -1,4 +1,4 @@
-# A program to prompt users to enter a list of planet names and displays the planets one by one. 
+# A program to prompt users to enter a list of planet names and display the planets one by one. 
 
 new_planet = ' '
 planets = []
