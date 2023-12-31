@@ -72,7 +72,7 @@ print()
 
 
 
-# Solution 4: # appending to alist and printing it at the end 
+# Solution 4: # Appending to alist and printing it at the end 
 
 list_values = []
 while True:
