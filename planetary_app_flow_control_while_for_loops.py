@@ -81,6 +81,6 @@ while True:
     print(user_input)
     if user_input.lower() == 'done':
         break
-print(list_values) # Ask program to print the list on the screen, notice this list does not have a check if the variable is empty so it does not include a ' ' empty result. 
+print(list_values) # Ask the program to print the list on the screen, notice this list does not have a check if the variable is empty so it does not include a ' ' empty result. 
 print()
 print()
