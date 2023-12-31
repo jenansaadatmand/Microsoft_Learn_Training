@@ -43,7 +43,7 @@ print()
 
 # Solution 2: 
 
-while True:         # while loop for repatitive task
+while True:         # while loop for repetitive task
     user_input = input("Enter a value or type 'done' when you're finished: ")
     print(user_input)
     if user_input.lower() == 'done':
