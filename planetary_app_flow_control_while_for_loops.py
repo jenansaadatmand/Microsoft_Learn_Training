@@ -2,7 +2,7 @@
 # Imagine you're creating an application where users enter a list of planet names. 
 # After the users enter the names, you display the results back to them. This scenario requires prompting the users multiple times to enter values, and when they're done 
 # your code displays all the data in the list. In this module, we explore how you can use while and for loops to create this application.
-# Run a task multiple times using while loop
+# Run a task multiple times using a while loop
 # Loop over list data by using for loop
 
 # You want to allow a user to enter a list of planet names. 
