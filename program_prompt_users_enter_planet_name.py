@@ -12,4 +12,3 @@ while new_planet.lower() != 'done':
         
 for new_planet in planets:   
     print(new_planet)
-
