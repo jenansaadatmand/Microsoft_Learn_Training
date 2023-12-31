@@ -7,7 +7,7 @@ print("Blast off!! 🚀")  # added an emoji that I copied from the online lesson
 print()
 
 
-# Lets change the code to wait one second between each number by using the sleep() function from the time library 
+# Let's change the code to wait one second between each number by using the sleep() function from the time library 
 
 
 from time import sleep  # import the sleep() from the time module 
