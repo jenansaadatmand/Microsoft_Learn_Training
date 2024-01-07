@@ -49,7 +49,7 @@ rocketOn = False
 print(rocketOn)
 
 
-# creating a variable & performing operations on it or changing its content:
+# Creating a variable & performing operations on it or changing its content:
 # This can be useful if we want to inform the computer that 
 # we've found three rocks so far and we've just found another.
 
