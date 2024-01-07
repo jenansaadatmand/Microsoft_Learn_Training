@@ -1,5 +1,5 @@
 # Building a calculator from Microsoft learn class introduction to Python
-# the characters ;\, at the end of the first two statements signal that there are many lines of code
+# The characters ;\, at the end of the first two statements signal that there are many lines of code
 # Using these characters lets you input all of the code, line by line 
 
 
