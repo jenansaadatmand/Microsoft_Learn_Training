@@ -25,7 +25,7 @@ print("How many even piles of 2 we can make with 5 rocks, leave off the remainde
 print(5//2)
 print()
 
-# Variables are containers that you can store data in and use at a different time.
+# Variables are containers that you can store data in and use at different time.
 
 # There are four main types of data variables:
 
