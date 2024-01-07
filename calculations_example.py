@@ -63,7 +63,7 @@ print(basaltRockCount)
 
 # An easy way to perform an operation on a variable is 
 # To use the operation you want to apply and then 
-# add an equal sign after it. 
+# Add an equal sign after it. 
 # This will perform the action and set the variable to the new value. For example:
 
 basaltRockCount = 5
