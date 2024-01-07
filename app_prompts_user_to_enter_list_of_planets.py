@@ -1,7 +1,7 @@
 # while loops let you run code an unknown number of times. 
 # The loops examine a Boolean condition and, as long as the condition is true, the code inside the loop will run. 
 # This is very useful for situations like prompting a user for values.
-# creating an application that prompts a user to enter a list of planets. In a later exercise, you'll add code that displays the list
+# Creating an application that prompts a user to enter a list of planets. In a later exercise, you'll add code that displays the list
 
 # Create two variables: one for the input from the user, named new_planet, and another variable for the list of planets, named planets.
 
