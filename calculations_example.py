@@ -70,5 +70,5 @@ basaltRockCount = 5
 basaltRockCount += 3   # Add 3 
 basaltRockCount -= 2  # Remove 2
 # These two codes are the same 
-basaltRockCount += 1  # take the variable, incement by 1 and then reset it
+basaltRockCount += 1  # take the variable, increment by 1 and then reset it
 basaltRockCount = basaltRockCount +1 
