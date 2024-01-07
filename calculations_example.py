@@ -51,7 +51,7 @@ print(rocketOn)
 
 # Creating a variable & performing operations on it or changing its content:
 # This can be useful if we want to inform the computer that 
-# we've found three rocks so far and we've just found another.
+# We've found three rocks so far and we've just found another.
 
 basaltRockCount = 0
 print(basaltRockCount)
