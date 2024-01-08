@@ -2,7 +2,7 @@
 # Use various string operations to create the output
 # Use special string methods
 # Use variables to introduce values in text
-# Apply other advanced formating techniques to change how text is presented
+# Apply other advanced formatting techniques to change how text is presented
 
 # Assign a single fact about the Moon to a variable
 
