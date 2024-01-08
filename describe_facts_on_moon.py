@@ -85,7 +85,7 @@ heading_upper = heading.title()
 print(heading_upper)
 print()
 
-# split a string: .split() creates a list output
+# Split a string: .split() creates a list output
 # Without arguments, the method will separate the string at every space. This would create a list of every word or number that's separated by a space:
 
 temperatures = "Daylight: 260 F Nighttime: -280 F"
@@ -99,7 +99,7 @@ print()
 # This type of splitting becomes handy when you need a loop to process or extract information, or when you're loading data from a text file.
 
 temperatures = "Daylight: 260 F\n Nighttime: -280 F" # two lines 
-temperatures_list = temperatures.split('\n') # pass an argument in the split() method, split at lines not words.
+temperatures_list = temperatures.split('\n') # Pass an argument in the split() method, split at lines not words.
 print(temperatures_list)
 print()
 
