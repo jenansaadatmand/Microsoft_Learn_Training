@@ -109,7 +109,7 @@ print()
 
 # The simplest way to discover whether a given word, character, or group of characters exists in a string is to use the in operator:
 
-print("Moon" in "This text will describe facts and challenges with space travel") # will return false
+print("Moon" in "This text will describe facts and challenges with space travel") # Will return false
 print("Moon" in "This text will describe facts about the Moon") # will return True
 print("J" in "Jimmy") # will return True
 
