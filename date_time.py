@@ -5,7 +5,7 @@ date.today() # Use today() function to get today's date
 print(date.today())
 
 # data type conversion, date is a number, cannot be concatenated with str, 
-# so you need to convert it to str using str()
+# So you need to convert it to str using str()
 print("Today's date is: " + str(date.today()))  
 
 
