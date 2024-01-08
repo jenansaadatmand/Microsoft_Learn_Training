@@ -7,7 +7,7 @@
 #Set object_size to 10 to represent 10m3. Set proximity to 9000.
 # Then add the code to display a message saying Evasive maneuvers required 
 # if both object_size is greater than 5 and proximity is less than 1000. 
-# Otherwise display a message saying Object poses no threat.
+# Otherwise display a message saying the Object poses no threat.
 
 
 object_size = 10
