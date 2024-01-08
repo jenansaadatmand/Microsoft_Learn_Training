@@ -1,6 +1,6 @@
 # To work with date: means both calendar date and time in a program
 
-from datetime import date  # use datetime library, import date object from datetime library
+from datetime import date  # Use datetime library, import date object from datetime library
 date.today() # Use today() function to get today's date
 print(date.today())
 
