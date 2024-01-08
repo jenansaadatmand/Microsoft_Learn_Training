@@ -18,4 +18,3 @@ while new_planet.lower() != 'done':
         planets.append(new_planet) # First time it checks the value is empty ' '
     new_planet = input('Enter a new planet or done if done: ')
 print(planets) # Presents the list of entered planets including the empty string for the first check due to the if statement 
-
