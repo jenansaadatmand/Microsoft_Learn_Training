@@ -3,7 +3,7 @@
 # Creat an application to work with numbers and user input
 # Create a project to calculate the distance between two planets based on user input
 # read the distance from the sun for two planets, and then display the distance between the planets using input(), int() to convert integers and then abs() to convert the results into its absolute value
-# Start by adding the code to prompt the user for the distance between sun and the first planet, and then the second
+# Start by adding the code to prompt the user for the distance between the sun and the first planet, and then the second
 # Store each result in variables named first_planet_input and second_planet_input
 
 # Answer:
