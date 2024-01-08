@@ -1,5 +1,5 @@
 # Complex conditional logic or work flow (if elif elif else)
-# elif: # else if to add multiple test expressions, run in order in which they are written
+# elif: # else if to add multiple test expressions, run in the order in which they are written
 
 
 a = 27
