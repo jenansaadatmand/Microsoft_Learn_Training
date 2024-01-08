@@ -44,7 +44,7 @@ print("We only see about 60% of the Moon's surface.")
 
 # Failure to alternate single and double quotation marks can cause the Python interpreter to raise a syntax error
 # print('We only see about 60% of the Moon's surface.')
-# output: SyntaxError: unterminated string literal (detected at line 46)
+# Output: SyntaxError: unterminated string literal (detected at line 46)
 
 # When the text has a combination of single and double quotation marks, you can use triple quotation marks to prevent problems with the interpreter:
 print("""We only see about 60% of the Moon's surface this is known as the "near side".""")      
