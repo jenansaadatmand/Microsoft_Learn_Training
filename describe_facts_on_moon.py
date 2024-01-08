@@ -10,7 +10,7 @@ fact = "The Moon has no atmosphere."
 print(fact)
 print()
 
-# Immutability of strings: strings can't change. Python does not give error when you alter strings
+# Immutability of strings: strings can't change. Python does not give an error when you alter strings
 
 # add another fact (sentence) to the single fact that's assigned to a variable.  It seems as though adding the second fact would alter the variable. You might expect the output to be: The Moon has no atmosphere.No sound can be heard on the Moon.
 # Although it might look as though we've modified the variable fact, a quick check of the value reveals that the original value is unchanged: 
