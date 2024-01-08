@@ -29,7 +29,7 @@ print(two_facts)
 print()
 
 
-# You can enclose Python strings in single, double, or triple quotation marks.Use one type consistently within a project. 
+# You can enclose Python strings in single, double, or triple quotation marks. Use one type consistently within a project. 
 
 moon_radius = """The Moon has a radius of 1,080 miles."""
 print(moon_radius)
