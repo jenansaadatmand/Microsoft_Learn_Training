@@ -17,7 +17,7 @@ print()
 
 
 fact = "The Moon has no atmosphere."
-fact + " No sound can be heard on the Moon" # this is a new strin returned by python
+fact + " No sound can be heard on the Moon" # This is a new strin returned by python
 print(fact)
 print()
 
