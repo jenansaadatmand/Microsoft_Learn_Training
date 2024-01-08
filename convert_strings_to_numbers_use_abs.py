@@ -27,7 +27,7 @@ print(abs(distance_km))
 
 # To test your project, run the notebook. You'll be prompted in a dialog to provide the distances. You can use the ones from the following table:
 
-#Planet	Distance from sun
+#Planet	Distance from the sun
 #Mercury    57900000
 #Venus	    108200000
 #Earth	    149600000
