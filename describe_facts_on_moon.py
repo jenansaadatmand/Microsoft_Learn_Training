@@ -22,7 +22,7 @@ print(fact)
 print()
 
 # Operations on strings always produce new strings as a result.
-# The trick is that you must use a return value. When you add strings, Python doesn't modify any string but returns a new string as the result. To keep this new result, assign it to a new variable:
+# The trick is that you must use a return value. When you add strings, Python doesn't modify any string but returns a new string as a result. To keep this new result, assign it to a new variable:
 
 two_facts = fact + " No sound can be heard on the Moon"   # new string assigned to a new variable
 print(two_facts)
