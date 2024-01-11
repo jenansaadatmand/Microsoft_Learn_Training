@@ -75,7 +75,7 @@ print()
 # String methods are part of the str type. This means that the methods exist as string variables, or part of the string directly. For example, the method .title() returns the string in initial caps and can be used with a string directly:
 
 print("temperature and facts about the moon".title())
-print("jenan and jimmy".title())
+print("jiji and jimmy".title())
 
 
 # The same behavior and usage happens on a variable:
