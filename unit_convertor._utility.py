@@ -9,7 +9,7 @@
 # Finally print the result on the screen with print 
 # So it displays a message which resembles the following: 
 # 11 parsecs is ----lightyears
-#  Remember to you can use str to convert numbers to strings
+#  Remember that you can use str to convert numbers to strings
 # turn into str to be able to concatenate 
 
 parsecs_input = input("Enter number of parsecs: ")
