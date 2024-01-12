@@ -63,7 +63,3 @@ acceleration = 9.8
 
 time = (endVelocity-startVelocity)/acceleration
 print("Time to reach desired velocity = ", time)
-
-
-
-
