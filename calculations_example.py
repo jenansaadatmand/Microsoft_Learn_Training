@@ -1,4 +1,4 @@
-# Calculations examples:
+# Calculations Examples:
 
 print('Combine two piles of space rocks ?')
 print(2 + 6)
