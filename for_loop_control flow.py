@@ -65,10 +65,3 @@ for number in countdown:
     print(number)
 print("Blast off!! 🚀")  # added an emoji that I copied from the online lesson in the browser
 
-
-
-
-
-
-
-
