@@ -1,6 +1,6 @@
 # Input function to ask for user information
 # Store the input value in a variable
-# print the value of the variable back to the user 
+# Print the value of the variable back to the user 
 # \n is an escape character, enter new line
 # Using print() statements as debugging tools
 
