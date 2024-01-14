@@ -2,7 +2,7 @@
 # store the input value in a variable
 # print the value of the variable back to the user 
 # \n is an escape character, enter new line
-# using print() statements as debugging tools
+# Using print() statements as debugging tools
 
 
 name = input('What is your name: ')
