@@ -8,4 +8,3 @@ print(date.today())
 # So you need to convert it to str using str()
 print("Today's date is: " + str(date.today()))  
 
-
