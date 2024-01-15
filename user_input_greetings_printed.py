@@ -14,6 +14,7 @@ print("Hello " + first_name.capitalize() + ' ' + last_name.capitalize())
 print()
 
 #Solution 3:
+
 output_1 = f'Hello, {first_name.capitalize()} {last_name.capitalize()}'    # format strings (f)
 output_2 = 'Hello, ' + first_name + ' ' + last_name # using plus (+) sign operator
 output_3 = 'Hello, {} {}'.format(first_name.capitalize(), last_name.capitalize()) # using place holders and format method (string.format)
