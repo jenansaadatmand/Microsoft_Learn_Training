@@ -28,7 +28,7 @@ second_num = '6' # sotred as a string that contains the number 6
 print(first_num + second_num) # The problem here it will concatenate 5 and 6 to 56 
 print()
 
-# Becareful : with input() function because it always returns a string
+# Careful: with input() function because it always returns a string
 
 first_num = input('Enter first number ') # returns a string of the 'number'
 second_num = input('Enter second number ')
