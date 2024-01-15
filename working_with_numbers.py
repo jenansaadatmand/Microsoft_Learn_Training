@@ -35,7 +35,7 @@ second_num = input('Enter second number ')
 print(type(first_num))
 print()
 
-# Use int() function for data type convertion
+# Use int() function for data type conversion
 
 print(int(first_num) + int(second_num)) # both numbers will be concatenated and you cannot perform mathematical operation on them unless you convert the string numbers into integers using int() function
 print()
