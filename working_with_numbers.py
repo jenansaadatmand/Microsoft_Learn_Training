@@ -15,7 +15,7 @@ print()
 
 # Data type conversion: 
 
-# Use str() for data type converstion
+# Use str() for data type conversion
 
 # When displaying a string that contains numbers you must convert the numbers into strings because Python does not concatenate int and str
 days_in_feb = 28
