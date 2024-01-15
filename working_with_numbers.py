@@ -22,7 +22,7 @@ days_in_feb = 28
 print(str(days_in_feb) + ' days in February') # convert number into string literal using str()
 print()
 
-# you can alternatively store a number as a string using quotation marks
+# Alternatively, you store a number as a string using quotation marks
 first_num = '5' # stored as a string that contains the number 5
 second_num = '6' # sotred as a string that contains the number 6
 print(first_num + second_num) # the problem here it will concatenate 5 and 6 to 56 
