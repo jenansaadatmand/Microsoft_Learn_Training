@@ -37,7 +37,7 @@ print()
 
 # Use int() function for data type conversion
 
-print(int(first_num) + int(second_num)) # both numbers will be concatenated and you cannot perform a mathematical operation on them unless you convert the string numbers into integers using int() function
+print(int(first_num) + int(second_num)) # Both numbers will be concatenated and you cannot perform a mathematical operation on them unless you convert the string numbers into integers using int() function
 print()
 
 # You can use float() function for data type conversion 
