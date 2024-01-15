@@ -19,8 +19,11 @@ output_1 = f'Hello, {first_name.capitalize()} {last_name.capitalize()}'    # for
 output_2 = 'Hello, ' + first_name + ' ' + last_name # using plus (+) sign operator
 output_3 = 'Hello, {} {}'.format(first_name.capitalize(), last_name.capitalize()) # using place holders and format method (string.format)
 output_4 = 'Hello, {0} {1}'.format(first_name, last_name) # using placeholders and assigning them to index 0 and 1
+output_5 = 'Hello, {1} {0}'.format(first_name, last_name) # reversing the order of the strings displayed
+print()
 
 print(output_1)
 print(output_2)
 print(output_3)
 print(output_4)
+print(output_5)
