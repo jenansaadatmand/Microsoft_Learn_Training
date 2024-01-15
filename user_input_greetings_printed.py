@@ -13,7 +13,7 @@ last_name = input("Please enter your last name: ")
 print("Hello " + first_name.capitalize() + ' ' + last_name.capitalize())
 print()
 
-#Solution 3:
+# Solution 3:
 
 output_1 = f'Hello, {first_name.capitalize()} {last_name.capitalize()}'    # format strings (f)
 output_2 = 'Hello, ' + first_name + ' ' + last_name # using plus (+) sign operator
