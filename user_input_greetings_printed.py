@@ -1,4 +1,4 @@
-# The program asks for the user name, formates it, and displays it back to the user with a greeting
+# The program asks for the user name, formats it, and displays it back to the user with a greeting
 first_name = input('What is your first name? ')
 last_name = input('What is your last name? ')
 print('Hello ' + first_name.capitalize() + ' ' + last_name.capitalize())
