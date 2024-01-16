@@ -1,6 +1,6 @@
 # Exercise: Use complex logic to determine possible evasive maneuvers.
 # You will test both the object's size and proximity. 
-# You will use the threshold for size of 5m3. 
+# You will use the threshold for a size of 5m3. 
 # If the object is both larger than the threshold 
 # and within 1000km of the ship evasive maneuvers will be required.
 # Create two variables: object_size and proximity. 
