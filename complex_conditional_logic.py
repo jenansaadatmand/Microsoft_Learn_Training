@@ -19,7 +19,7 @@ else:
     # indented statement to be run
 # elif expression:
     # indented statement to be run
-# else no test expression is needed, it the left over:
+# else no test expression is needed, it is the leftover:
     # indented statement to be run 
      
         
