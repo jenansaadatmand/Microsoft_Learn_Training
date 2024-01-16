@@ -26,7 +26,7 @@ else:
 # nested conditional logic:
 # You can nest if, elif, else statements to create even more complex programs
 # To nest conditions, indent the inner conditions
-# Everything in at the same level of indentation will be run in the same code block
+# Everything at the same level of indentation will be run in the same code block
 
 a = 16
 b = 25
