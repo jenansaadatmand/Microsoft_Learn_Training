@@ -110,7 +110,7 @@ print(planets_before_earth)
 print()
 
 # A slice creates a new list. It doesn't modify the current list
-# To get all planets after Earth, start at the third and go to the eigth
+# To get all planets after Earth, start at the third and go to the eighth
 planets_after_earth = planets[3:8]
 print(planets_after_earth) # Neptune is displayed. The reason is that the index for Neptune is 7, because indexing starts at 0. Because the ending index was 8, it includes the last value
 
