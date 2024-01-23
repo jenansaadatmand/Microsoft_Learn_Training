@@ -40,7 +40,7 @@ print("No, there are definitely", number_of_planets, "planets in the solar syste
 
 # Use negative indexes to fetch an individual item in a list
 # Indexes start at zero and increase. Negative indexes start at the end of the list and work backward 
-# index -1 will return the last item and index -2 will return the the second to last item
+# Index -1 will return the last item and index -2 will return the the second to last item
 
 print("The first planet is", planets[0])
 print("The last planet is", planets[-1])
