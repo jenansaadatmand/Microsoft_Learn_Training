@@ -13,9 +13,9 @@ print(planet)
 # Note: you can use whatever formatting option you like
 print(f'{planet["name"]} has {planet["moons"]} moon(s)')
 # Add circumference information
-# You can update existing keys or create new ones by either using the update method or usinf square brackets[ ]
+# You can update existing keys or create new ones by either using the update method or using square brackets[ ]
 # When you're using update, you pass in a new dictionary object with the updated or new values. When using square brackets, you specify the key name and assign a new value.
-# Add a new value to planet with a key of 'circumference (km)'. This new value should store a dictionary with the planet's two circumferences: polar: 6752 and equatorial: 6792
+# Add a new value to the planet with a key of 'circumference (km)'. This new value should store a dictionary with the planet's two circumferences: polar: 6752 and equatorial: 6792
 
 
 # updating using update()method and passing a new dictionary object with updated new values
