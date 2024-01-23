@@ -1,7 +1,7 @@
 # Create and modify a Python dictionary 
 # Dictionaries are a collection of key/values pairs, related values or data
 # Managing planet data
-# Create a program which will store and display information about planets into a dictionary 
+# Create a program that will store and display information about planets into a dictionary 
 # To start you will use one planet
 # Create a variable named planet, store values as a dictionary, name:Mars and moons:2
 planet = {'name':'Mars', 'moons':2} # dictionary
