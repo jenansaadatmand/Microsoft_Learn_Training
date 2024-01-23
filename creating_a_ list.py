@@ -150,7 +150,7 @@ print()
 
 # Working with lists
 # using slices to retrieve portions of a list
-# Create the list of planets
+# Create a list of planets
 planets = ["Mercury", "Venus", "Earth", "Mars", "Jupiter", "Saturn", "Uranus", "Neptune"]
 
 # Prompt the user for the reference planet 
