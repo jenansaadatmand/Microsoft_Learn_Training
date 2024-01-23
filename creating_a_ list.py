@@ -47,7 +47,7 @@ print("The last planet is", planets[-1])
 print("The penultimate planet is", planets[-2])
 print()
 
-# Find a value in a list, determine where in a list a valuse is stored using the index method, which searches for a value and returns the index of that item in the list.  If it does not find a match, it returns -1
+# Find a value in a list, and determine where in a list a valuse is stored using the index method, which searches for a value and returns the index of that item in the list.  If it does not find a match, it returns -1
 
 jupiter_index = planets.index("Jupiter") 
 print("Jupiter is the", jupiter_index + 1, "planet from the sun") # Because indexing starts with 0, you need to add 1 to display the proper number
