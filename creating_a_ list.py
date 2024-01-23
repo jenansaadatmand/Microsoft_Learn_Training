@@ -122,7 +122,7 @@ print()
 # Join lists after splitting them: use the operator (+) with two lists to return a new list
 
 # Create two lists. Populate the first list with four Amalthea moons and the second list with the four Galilean moons.
-# Join them together by uding + to make a new list:
+# Join them together by using + to make a new list:
 # Joining lists creates a new list. It doesn't modify the current list
 
 amalthea_group = ["Metis", "Adrastea", "Amalthea", "Thebe"] 
