@@ -56,7 +56,7 @@ print(planets)
 print()
 
 Mercury_index = planets.index("Mercury")
-print("Murcury is the", Mercury_index + 1, "planet from the sun")
+print("Mercury is the", Mercury_index + 1, "planet from the sun")
 print()
 
 # Create and use Python lists
