@@ -7,7 +7,7 @@ print(planets)
 # Because all indexes start from 0, [1] is the second item, [2] is the third, and so forth
 print("The first planet is", planets[0])
 print("The second item is", planets[1])
-print("The thirs item is", planets[2])
+print("The third item is", planets[2])
 print("The last item is", planets[-1])
 print()
 
