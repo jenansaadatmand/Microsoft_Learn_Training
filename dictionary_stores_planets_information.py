@@ -18,7 +18,7 @@ print(f'{planet["name"]} has {planet["moons"]} moon(s)')
 # Add a new value to the planet with a key of 'circumference (km)'. This new value should store a dictionary with the planet's two circumferences: polar: 6752 and equatorial: 6792
 
 
-# updating using update()method and passing a new dictionary object with updated new values
+# Updating using update()method and passing a new dictionary object with updated new values
 planet.update({'circumference (km)':{'polar': 6752, 'equatorial':6792}}) # nested dictionaries
 print(planet)
 print()
