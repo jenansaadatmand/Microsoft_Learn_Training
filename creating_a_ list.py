@@ -141,7 +141,7 @@ print(regular_satellite_moons)
 regular_satellite_moons.sort()
 print("The regular satellite moons of Jupiter are", regular_satellite_moons)
 print()
-# To sort a list in reverse oder use .sort(reverse=True) method
+# To sort a list in reverse order use .sort(reverse=True) method
 
 regular_satellite_moons.sort(reverse=True)
 print("The regulsr satellite moons of Jupitor are", regular_satellite_moons)
