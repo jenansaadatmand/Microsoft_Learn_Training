@@ -119,7 +119,7 @@ planets_after_earth = planets[3:]
 print(planets_after_earth) # pluto is printed
 print()
 
-# Join lists after spliting them: use the operator (+) with two lists to return a new list
+# Join lists after splitting them: use the operator (+) with two lists to return a new list
 
 # Create two lists. Populate the first list with four Amalthea moons and the second list with the four Galilean moons.
 # Join them together by uding + to make a new list:
