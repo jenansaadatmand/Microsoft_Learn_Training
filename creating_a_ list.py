@@ -36,7 +36,7 @@ print()
 # To remove the last value from the list use the pop() method
 planets.pop() # Goodbye, Pluto, which is the last item 
 number_of_planets = len(planets)
-print("No, there are definitly", number_of_planets, "planets in the solar system")
+print("No, there are definitely", number_of_planets, "planets in the solar system")
 
 # Use negative indexes to fetch an individual item in a list
 # Indexes start at zero and increase. Negative indexes start at the end of the list and work backward 
