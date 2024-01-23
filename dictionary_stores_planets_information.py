@@ -3,16 +3,16 @@
 # Managing planet data
 # Create a program that will store and display information about planets in a dictionary 
 # To start you will use one planet
-# Create a variable named planet, store values as a dictionary, name:Mars and moons:2
+# Create a variable named planet, store values as a dictionary, name: Mars and moons:2
 planet = {'name':'Mars', 'moons':2} # dictionary
 print(planet) 
 
 # Display or retrieve data using .get() method or using square brackets  [ ] and key name. 
 # Add the code to display the planet information in the following format: --- has ---- moon(s) 
 # If you were working with Earth, the output would be Earth has 1 moon(s)
-# Note: you can use whatever formating option you like
+# Note: you can use whatever formatting option you like
 print(f'{planet["name"]} has {planet["moons"]} moon(s)')
-# Add circuference information
+# Add circumference information
 # You can update existing keys or create new ones by either using the update method or usinf square brackets[ ]
 # When you're using update, you pass in a new dictionary object with the updated or new values. When using square brackets, you specify the key name and assign a new value.
 # Add a new value to planet with a key of 'circumference (km)'. This new value should store a dictionary with the planet's two circumferences: polar: 6752 and equatorial: 6792
