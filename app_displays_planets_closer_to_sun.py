@@ -4,7 +4,6 @@
 # Objective: Learn when to use a list type and structure and how it helps organize data
 
 
-
 plants = [ ] 
 planet_name = input("Enter name of planet: ")
 if planet =< distance:
