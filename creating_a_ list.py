@@ -164,7 +164,7 @@ print("Here are the planets closer than " + user_planet)
 print(planets[0:planet_index])
 print()
 
-# Display the planets farther to the sun
+# Display the planets farther from the sun
 # Since the starting index is included when you're using a slice, as a result, you'll have to add 1 to the value. 
 print("Here are the planets farther than " + user_planet)
 print(planets[planet_index + 1:])  # add +1 to exclude the user_planet index
