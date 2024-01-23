@@ -24,12 +24,12 @@ print(planet)
 print()
 
 # updating using brackets [ ]: you need to uncomment code 
-#planet['cirumference(km)'] = {'polar': 6752, 'equatorial': 6792}
+#planet['circumference (km)'] = {'polar': 6752, 'equatorial': 6792}
 #print(planet)
 #print()
 
 
-# Finally, add the code to print the polar circumference of the planet. You can use whatever sentence formating you wish
+# Finally, add the code to print the polar circumference of the planet. You can use whatever sentence formatting you wish
 print(f'{planet["name"]} has a polar circumference of {planet["circumference (km)"]["polar"]}')
 print()
 
