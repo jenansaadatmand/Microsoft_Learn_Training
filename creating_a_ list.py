@@ -148,7 +148,7 @@ print("The regulsr satellite moons of Jupitor are", regular_satellite_moons)
 print()
 
 
-# working with lists
+# Working with lists
 # using slices to retrieve portions of a list
 # Create the list of planets
 planets = ["Mercury", "Venus", "Earth", "Mars", "Jupiter", "Saturn", "Uranus", "Neptune"]
