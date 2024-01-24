@@ -1,4 +1,4 @@
-# Create a program that calculate the distance between two planets
+# Create a program that calculates the distance between two planets
 # using two planet distances: Earth (149,597,870 km) and Jupiter (778,547,200 km)
 # Remove the commas when you're using the values 
 
