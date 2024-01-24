@@ -5,7 +5,7 @@
 first_planet = 149597870
 second_planet = 778547200
 
-# You have two variables which store the distance between each planet and a common point: the sun. You can subtract these two values to determine the distance between the planets.
+# You have two variables that store the distance between each planet and a common point: the sun. You can subtract these two values to determine the distance between the planets.
 
 distance_km = second_planet - first_planet
 print(distance_km, "km")
