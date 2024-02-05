@@ -83,7 +83,7 @@ def distance_from_earth(destination):
 
 # Example code has two paths for a response, one for the Moon and the other one for anything else. Use the Moon as input to get an answer:
 print(distance_from_earth("Moon")) # Including "Moon" as an argument
-# Because there's a catch-all condition, try using any other string as the destination to check that behavior:
+# Because there's a catch-all condition, try using any other string as the destination to check that behaviour:
 print(distance_from_earth("Saturn")) 
 print()
 
