@@ -1,5 +1,5 @@
 # Creating functions
-# A function conatains code that always returns a value(s)
+# A function contains code that always returns a value(s)
 # A function can be with no argument or in some case a function has optional or required inputs/arguments/parameters to be passed into the function
 # functions prevent code duplications, limits the size of code by extracting parts out into smaller more readible functions, improve readibility 
 # TO create a function, you use the def keyword, followed by a name, parenthesis, and the body with the function code
