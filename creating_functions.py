@@ -5,7 +5,7 @@
 # TO create a function, you use the def keyword, followed by a name, parenthesis, and the body with the function code
 # To use the function, you must call it by its name by using parenthesis
 
-# Creating a function that doesn't take any arrgument and prints a statement about gravity
+# Creating a function that doesn't take any argument and prints a statement about gravity
 
 def rocket_parts(): 
     print("payload, propellant, structure")
