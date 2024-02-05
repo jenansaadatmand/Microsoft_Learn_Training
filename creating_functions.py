@@ -48,7 +48,7 @@ any([True, False, False]) # a list is passed as an argument
 output1 = any # calling the function
 print(output1)
 print()
-print(any) # lets you know its a built-in function
+print(any) # lets you know it is a built-in function
 print(type(any)) # lets you know its a built-in function
 print() 
 
