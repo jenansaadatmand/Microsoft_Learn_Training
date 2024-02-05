@@ -39,7 +39,7 @@ print()
 
 # Creating a function with required and optional arguments
 # In Python several built-in functions require arguments, some built-in functions make arguments optional
-# Built-in functions are immediately availble so you don't need to import them explicitly 
+# Built-in functions are immediately available so you don't need to import them explicitly 
 
 # An example of a built-in function that requires an argument is any(). 
 # This function takes an iterable (for example, a list) and returns True if any item in the iterable is True. Otherwise, it returns False.
