@@ -169,4 +169,3 @@ print()
 print("Here are the planets farther than " + user_planet)
 print(planets[planet_index + 1:])  # add +1 to exclude the user_planet index
 print()
-
