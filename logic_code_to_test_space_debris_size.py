@@ -7,7 +7,7 @@
 # set it to 10 to represent 10m3. 
 # Then add an if statement to test if object_size is greater than 5. 
 # If it is, display a message saying We need to keep an eye on this object. 
-# Otherwise, display a message saying Object poses no threat.
+# Otherwise, display a message saying the Object poses no threat.
 
 
 object_size = 10
