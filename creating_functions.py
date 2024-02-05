@@ -37,7 +37,7 @@ print(output)
 print(output is None)
 print()
 
-# Creating a function with a required and optional arguments
+# Creating a function with required and optional arguments
 # In Python several built-in functions require arguments, some built-in functions make arguments optional
 # Built-in functions are immediately availble so you don't need to import them explicitly 
 
