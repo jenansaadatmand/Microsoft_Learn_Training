@@ -9,7 +9,7 @@
 
 def rocket_parts(): 
     print("payload, propellant, structure")
-rocket_parts() # when calling a function, it prints the output on the screen if it includes a print() function
+rocket_parts() # When calling a function, it prints the output on the screen if it includes a print() function
 print()
 
 # If you need to use a value that a function is returning, you can assign the function output to a variable
