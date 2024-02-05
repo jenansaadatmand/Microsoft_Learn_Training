@@ -109,5 +109,3 @@ print()
 
 print(round(days_to_complete(238855, 75))) # here we didn't create a variable and then round(), we passed the days_to_complete(two arguments) function as an argument for the round() function, passing functions directly into other functions aas input 
 print()
-
-
