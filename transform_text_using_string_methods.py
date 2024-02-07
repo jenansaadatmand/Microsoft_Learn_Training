@@ -1,5 +1,5 @@
 # Exercise - Transform text by using string methods
-# Exercise: Transform/manipulating strings
+# Exercise: Transform/manipulate strings
 # There are several operations you can perform on strings when you manipulate them. In this exercise, 
 # you'll use string methods to modify text with facts about the Moon 
 # and then extract information to create a short summary.
@@ -41,8 +41,6 @@ for sentence in sentences:
     sentence.find('temperature')
 print(sentence)
 print() 
-
-
 
 
 # Solution # 3:
